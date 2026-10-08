@@ -1,5 +1,7 @@
 public class Main {
 public static void main(String[] args) {
-System.out.println("Hello, Git!");
+    String studentName="Petya",groupName="p3106";
+    System.out.println(studentName);
+    System.out.println(groupName);
 }
 }
